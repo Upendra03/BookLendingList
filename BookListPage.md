@@ -1,20 +1,20 @@
-| SL # | Book Name | ISBN | Author | Language |Owner | Borrower | Borrowed Date | Paid (rs) |
-| :---:| :---:     | :---:| :---:  | :---:    |:---: | :---:    |   :---:       | :---: | 
-| 1  | Totto-chan | 9788123731032 | Tetsuko Kuruyonagi | Kannada | Rathna Patwardhan | Upendra | 28.Apr.2024 | |
-| 2  | Guptagamini | prathiba printers | Rathna Patwardhan | kannada | Rathna Patwardhan | Upendra | 28.Apr.2024 | |
-| 3  | Best of A Ra Mitra | Ankita Pustaka | Bellur Ramamurthy | Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 | | 
-| 4  | Mandra | Lakshmi Mudranalaya | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 |  |
-| 5  | Bhitti | Lakshmi Mudranalaya | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 |  |
-| 6  | Kavalu | Sahitya Bhandara | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 |  |
-| 7  | South of the Border, West of the Sun | 9780099448570| Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | |
-| 8  | Men without Women | 9781784705374 | Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | |
-| 9  | The fist of God | 9780553572421 | Frederick Forsyth | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | |
-| 10 | Princess | 9780553816952 | Jean Sasson | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | |
-| 11 | Grandma's Bag Of Stories |  | Sudha Murthy | English | Upendra | Aravind Patankar | 28.Apr.2024| |
-| 12 | The Railway Children |  | E Nesbit | English | Upendra | Yogitha | 28.Apr.2024 | 20 |
-| 13 | Cold Storage | | David Koepp | English | Mrudula | Swapna Chiplunkar | 28.Apr.2024 | |
-| 14 | Famous Five 9: Five fall into Adventure | | Enid Blyton |  English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | |
-| 15 | Hardy Boys 11: Hurricane Joe | 9781416911746 | Franklin W. Dixon | English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | |
-| 16 | Days at the Morisaki Bookshop | 9780063278677 | Satoshi Yagisawa | English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | |
-| 17 | The immortals of Meluha | | Amish Tripathi | English | Upendra | Niranjan Damle | 28.Apr.2024 | |
-| 18 | Scion of Ishvaku | | Amish Triprathi | English | Swapna Chiplunkar | Niranjan Damle | 28.Apr.2024 | |
+| SL # | Book Name | ISBN | Author | Language |Owner | Borrower | Borrowed Date | Returned Date| Paid (rs) | 
+| :---:| :---:     | :---:| :---:  | :---:    |:---: | :---:    |   :---:       | :---:        | :---:     | 
+| 1  | Totto-chan | 9788123731032 | Tetsuko Kuruyonagi | Kannada | Rathna Patwardhan | Upendra | 28.Apr.2024 | | |
+| 2  | Guptagamini | prathiba printers | Rathna Patwardhan | kannada | Rathna Patwardhan | Upendra | 28.Apr.2024 | | |
+| 3  | Best of A Ra Mitra | Ankita Pustaka | Bellur Ramamurthy | Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 | | | 
+| 4  | Mandra | Lakshmi Mudranalaya | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 | | |
+| 5  | Bhitti | Lakshmi Mudranalaya | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 | | |
+| 6  | Kavalu | Sahitya Bhandara | S L Bairappa |  Kannada | Rathna Patwardhan | Upendra | 28.Ar.2024 |  | | |
+| 7  | South of the Border, West of the Sun | 9780099448570| Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
+| 8  | Men without Women | 9781784705374 | Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
+| 9  | The fist of God | 9780553572421 | Frederick Forsyth | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
+| 10 | Princess | 9780553816952 | Jean Sasson | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
+| 11 | Grandma's Bag Of Stories |  | Sudha Murthy | English | Upendra | Aravind Patankar | 28.Apr.2024| | |
+| 12 | The Railway Children |  | E Nesbit | English | Upendra | Yogitha | 28.Apr.2024 | | 20 |
+| 13 | Cold Storage | | David Koepp | English | Mrudula | Swapna Chiplunkar | 28.Apr.2024 | | |
+| 14 | Famous Five 9: Five fall into Adventure | | Enid Blyton |  English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | | |
+| 15 | Hardy Boys 11: Hurricane Joe | 9781416911746 | Franklin W. Dixon | English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | | |
+| 16 | Days at the Morisaki Bookshop | 9780063278677 | Satoshi Yagisawa | English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | | |
+| 17 | The immortals of Meluha | | Amish Tripathi | English | Upendra | Niranjan Damle | 28.Apr.2024 | | |
+| 18 | Scion of Ishvaku | | Amish Triprathi | English | Swapna Chiplunkar | Niranjan Damle | 28.Apr.2024 | | |
