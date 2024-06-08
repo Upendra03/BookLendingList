@@ -18,4 +18,8 @@
 | 16 | Days at the Morisaki Bookshop | 9780063278677 | Satoshi Yagisawa | English | Upendra | Swapna Chiplunkar | 28.Apr.2024 | | |
 | 17 | The immortals of Meluha | | Amish Tripathi | English | Upendra | Niranjan Damle | 28.Apr.2024 | | |
 | 18 | Scion of Ishvaku | | Amish Triprathi | English | Swapna Chiplunkar | Niranjan Damle | 28.Apr.2024 | | |
-| 19 | Hitting against the spin | 9781472131249 | Nathan Leamon, Ben Jones | English | Upendra | Trayambak | 06.May.2024 | |
+| 19 | Hitting against the spin | 9781472131249 | Nathan Leamon, Ben Jones | English | Upendra | Trayambak | 06.May.2024 | 18.May.2024 |
+| 20 | Jugari Cross |  | Poornachandra tejaswi | Kannada | Gopal Krishna | Sunitha Ajji | TBD | | |
+| 21 | Chidambara Rahasya | | Poornachandra tejaswi | Kannada | Gopal Krishna | Vasanth Anna | TBD | | |
+| 22 | Karvalo | | Poornachandra tejaswi | Kannada | Gopal Krishna | Gayathri TCS | 05.Jun.2024 | | |
+| 23 | Shikarasurya | Ankita Pustaka | Chandrashekar Kambara | Kannada | Gopal Krishna | Gopal Krishna | 08.Jun.2024 | | |
