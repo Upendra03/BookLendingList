@@ -22,4 +22,5 @@
 | 20 | Jugari Cross |  | Poornachandra tejaswi | Kannada | Gopal Krishna | Sunitha Ajji | TBD | | |
 | 21 | Chidambara Rahasya | | Poornachandra tejaswi | Kannada | Gopal Krishna | Vasanth Anna | TBD | | |
 | 22 | Karvalo | | Poornachandra tejaswi | Kannada | Gopal Krishna | Gayathri TCS | 05.Jun.2024 | | |
-| 23 | Shikarasurya | Ankita Pustaka | Chandrashekar Kambara | Kannada | Gopal Krishna | Gopal Krishna | 08.Jun.2024 | | |
+| 23 | Shikarasurya | Ankita Pustaka | Chandrashekar Kambara | Kannada | Amma | Gopal Krishna | 08.Jun.2024 | | |
+| 24 | Godfather | | Mario Puzo | English | Upendra | Bhanu V | 26.Jun.2024 | | |
