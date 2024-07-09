@@ -21,8 +21,9 @@
 | 19 | Hitting against the spin | 9781472131249 | Nathan Leamon, Ben Jones | English | Upendra | Trayambak | 06.May.2024 | 18.May.2024 |
 | 20 | Jugari Cross |  | Poornachandra tejaswi | Kannada | Gopal Krishna | Sunitha Ajji | 30.Jun.2024 | | |
 | 21 | Chidambara Rahasya | | Poornachandra tejaswi | Kannada | Gopal Krishna | Vasanth Anna | 30.Jun.2024 | | |
-| 22 | Karvalo | | Poornachandra tejaswi | Kannada | Gopal Krishna | Gayathri TCS | 05.Jun.2024 | | |
+| 22 | Karvalo | | Poornachandra tejaswi | Kannada | Gopal Krishna | Gayathri TCS | 05.Jun.2024 | 04.Jul.2024 | |
 | 23 | Shikarasurya | Ankita Pustaka | Chandrashekar Kambara | Kannada | Amma | Gopal Krishna | 08.Jun.2024 | | |
 | 24 | Godfather | | Mario Puzo | English | Upendra | Bhanu V | 26.Jun.2024 | | |
 | 25 | swapnada hole | 9788128016745 | Dr. Shivram Karanth | Kannada | Sunitha Ajji | Upendra | 30.Jun.2024 | | |
 | 26 | Shivram Karanth - Ayda bidi barahagalu | 9383052945 | Dr. Shivram Karanth | Kannada | Sunitha Ajji | Upendra | 30.Jun.2024 | | |
+| 27 | Papilon | | Poornachandre tejaswi | Kannada | Satish Bapat | Gayathri TCS | 05.Jul.2024 | | |
