@@ -27,3 +27,4 @@
 | 25 | swapnada hole | 9788128016745 | Dr. Shivram Karanth | Kannada | Sunitha Ajji | Upendra | 30.Jun.2024 | | |
 | 26 | Shivram Karanth - Ayda bidi barahagalu | 9383052945 | Dr. Shivram Karanth | Kannada | Sunitha Ajji | Upendra | 30.Jun.2024 | | |
 | 27 | Papilon | | Poornachandre tejaswi | Kannada | Satish Bapat | Gayathri TCS | 05.Jul.2024 | 11.Jul.204 | |
+| 28 | Tom Sawyer | | Mark Twain | English  | Upendra Bapat | Gayathri TCS | 30.Jul.2024 | | |
