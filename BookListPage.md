@@ -28,3 +28,9 @@
 | 26 | Shivram Karanth - Ayda bidi barahagalu | 9383052945 | Dr. Shivram Karanth | Kannada | Sunitha Ajji | Upendra | 30.Jun.2024 | | |
 | 27 | Papilon | | Poornachandre tejaswi | Kannada | Satish Bapat | Gayathri TCS | 05.Jul.2024 | 11.Jul.204 | |
 | 28 | Tom Sawyer | | Mark Twain | English  | Upendra Bapat | Gayathri TCS | 30.Jul.2024 | | |
+| 29 | Dinosaur Rescue|9789351031871| Kyle Newburn & Donovan Bixley | English | Skanda | Avinash M. | 29.Sep | | |
+| 30 | The World's funniest folktales | 9788176554381 | Rajee Raman | English | Skanda | Avinash M. | 29.Sep | | |
+| 31 | Rudraprayagada Bhayanaka Narabhakshaka | Pustaka Prakashana | Poornachandra Tejaswi | Kannada | Upendra | Gopalkrishna | 29.Sep | | |
+| 32 | Vismaya Vishwa - 1 | Pustaka Prakashana | Poornachandra Tejaswi | Kannada | Upendra | Gopalkrishna | 29.Sep | | |
+| 33 | Selected writings for children - Rabrindranath Tagore | 9780195686791 |Rabrindranath Tagore | English | Skanda | Avinash M. | 29.Sep | | |
+| 34 | Janapada Nayaka Dr. Rajkumar | 9789393588050 | Barguru Ramchandrappa | Kannada | Upendra | Vasumathi B | 5.Oct | | |
