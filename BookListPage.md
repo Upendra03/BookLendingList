@@ -7,6 +7,7 @@
 | 5  | Bhitti | Lakshmi Mudranalaya | S L Bairappa |  Kannada | Rathna Patwardhan | Gopal Krishna | 06.May.2024 | 25.May.2024 | | 
 | 6  | Kavalu | Sahitya Bhandara | S L Bairappa |  Kannada | Rathna Patwardhan | Gopal Krishna | 06.May.2024 | 25.May.2024 | | 
 | 7  | South of the Border, West of the Sun | 9780099448570| Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
+| 7.1  | South of the Border, West of the Sun | 9780099448570| Haruki Murakami | English | Swapna Chiplunkar | Adarsh B G | 27.Oct.2024 | | |
 | 8  | Men without Women | 9781784705374 | Haruki Murakami | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
 | 9  | The fist of God | 9780553572421 | Frederick Forsyth | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
 | 10 | Princess | 9780553816952 | Jean Sasson | English | Swapna Chiplunkar | Upendra | 28.Apr.2024 | | |
@@ -34,3 +35,8 @@
 | 32 | Vismaya Vishwa - 1 | Pustaka Prakashana | Poornachandra Tejaswi | Kannada | Upendra | Gopalkrishna | 29.Sep | | |
 | 33 | Selected writings for children - Rabrindranath Tagore | 9780195686791 |Rabrindranath Tagore | English | Skanda | Avinash M. | 29.Sep | | 20 |
 | 34 | Janapada Nayaka Dr. Rajkumar | 9789393588050 | Barguru Ramchandrappa | Kannada | Upendra | Vasumathi B | 5.Oct | | |
+| 35 | Dark Matter | 9781035034659 | Blake Crouch | English | Vismay | Upendra B | 19.Oct | 26.Oct | |
+| 36 | Wit & Humar - Best of Tenali Raman |  | | English | Upendra | Yogitha | 27.Oct.2024 | | |
+| 37 | Mookajjia kanasu |  | Dr.Shivram karanth | Kannada | Upendra | Yogitha | 27.Oct.2024 | | |
+| 38 | Nasruddhin jokes | | Jogi | Kannada | Upendra | Sunil T G | 27.Oct.2024 | | | 
+| 39 | Palayana| | Poornachandra Tejaswi | Kannada | Upendra | Sunil T G | 27.Oct.2024 | | | 
