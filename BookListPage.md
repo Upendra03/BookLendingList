@@ -50,13 +50,13 @@
 | 44   | Bodies from the library | | Tony Medawar | English | Vibha Akka | Mrudula | 08.Dec.2024 | | | 
 | 45   | Detectives & Criminals | | Anthaology | English | Vibha Akka | Mrudula | 08.Dec.2024 | | | 
 | 46   | Lord Peters | | Dorothy L Sayers | English | Vibha Akka | Mrudula | 08.Dec.2024 | | | 
-| 47   | No Easy Day | | Mark Owen | English | Upendra Bapat | Anoop Athawale | 16.Jan.2025 | | | 
+| 47   | No Easy Day | | Mark Owen | English | Upendra Bapat | Anoop Athawale | 16.Jan.2025 | 18.May.2025 | | 
 | 48   | Mistress of the Game | | Sidney Sheldon | English | Yashaswini (SCR L) | Upendra Bapat | 14.Jan.2025 | | |
 | 49   | The Armor of the Light | | Ken Folliat | English | Rashmi Gokhale | Upendra Bapat | 02.Oct.2024 | | | 
 | 50   | Dinakondu Kathe | |  | Kannada | Upendra Bapat |  Madhura Bapat | 19.Nov.2024 | | | 
 | 51   | O' Switzerland | 9783038690313 | Bergli | English | Adarsh B G | Upendra Bapat | 25.Jan.2025 | | |
 | 52   | Tata Stories - 40 timeless stories |  | Harish Bhat | English | Upendra Bapat | Gayathri  | 05.Feb.2025 | 11.Mar.2025| |
-| 53   | Bekinna kannu | | Triveni | Kannada | Mrudula | Yashashwini | 28.Feb.2025| | |
+| 53   | Bekinna kannu | | Triveni | Kannada | Mrudula | Yashashwini | 28.Feb.2025| 1.Aug.2025| |
 | 54   | Pigs have Wings | | P.G Wodehouse | English | Upendra | Avani masther | 06.Apr.2025| | |
 | 56   | A Bond with Nature  | 9788183321396 | Ruskin Bond | English | Upendra | Avani masther | 06.Apr.2025| | |
 | 57   | New 52 - Batman/Superman Annual  |  | DC Comics | English | Upendra | Aarav | 13.Apr.2025| | |
@@ -69,6 +69,17 @@
 | 64   | The Hardy Boys - Hurricane Joe   |  | Franklin W Dixon | English | Upendra | Swarith Joshi | 15.Apr.2025| | |
 | 65   | Aesop's Fable   |  | Vasan's Publication | English | Upendra | Aisiri | 15.Apr.2025| | |
 | 66   | Panje Mangeshwar rao - Makkala kathegalu  |  |  | Kannada | Upendra | Aisiri | 15.Apr.2025| | |
-
-
+| 67   | Grimms Fairy Tales  | 9781509857814 |  Grimm Brothers | English | Upendra | Aisiri | 08.Apr.2024| 26.Apr.2025 | |
+| 68   | Tell Me Why - Earth  |  |  | English | Upendra | Arjun S | 01.May.2025| | |
+| 69   | Shyamana Thayi | 8126270220 | Saane Guruji | Kannada | Vasumathi B | Upendra Bapat | 27.Apr.2025| | |
+| 69.1 | Shyamana Thayi | 8126270220 | Saane Guruji | Kannada | Vasumathi B | Vasanth Bapat | 18.May.2025| | |
+| 70   | Are you afraid of the dark? | 9780007837083 | Sydney Sheldon | English | Deepak Godbole | Upendra Bapat | 12.Apr.2025| | |
+| 71   | Tell Me Why - World Cities |  | Manorama Magazine | English | Upendra Bapat | Trayambak | 08.May.2025| 16.May.2025 | |
+| 72   | Tell Me Why - Polar Reagion |  | Manorama Magazine | English | Upendra Bapat  | Trayambak | 08.May.2025| 16.May.2025 | |
+| 73   | Scion of Ikshvaku | | Amish Tripathi | English | Upendra Bapat  | Anoop Athawale | 07.June.2025 | | |
+| 74   | Midnight Sun | | Stephanie Meyer | English | Upendra Bapat | Usha Aunty | 01.Aug.2025 | | |
+| 75   | Amulet of Samarkand | | Jonathan Stroud | English | Upendra Bapat | Avani | 09.Aug.2025 | | |
+| 76   | Jughead's Double Digest | | Archie Comics | English | Upendra Bapat | Avani | 09.Aug.2025 | 09.Aug.2025 | |
+| 77   | Vyjayanthipura | | Santhoshkumar Mehendal | Kannada | Vasumathi Bapat | Sunitha Ajji | 06.Sep.2025 | | |
+| 78   | The Book Thief | | Markus Zuzak | English | Upendra Bapat | Gowri Ajji | 06.Sep.2025 | | |
 
