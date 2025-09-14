@@ -79,7 +79,9 @@
 | 73   | Scion of Ikshvaku | | Amish Tripathi | English | Upendra Bapat  | Anoop Athawale | 07.June.2025 | | |
 | 74   | Midnight Sun | | Stephanie Meyer | English | Upendra Bapat | Usha Aunty | 01.Aug.2025 | | |
 | 75   | Amulet of Samarkand | | Jonathan Stroud | English | Upendra Bapat | Avani | 09.Aug.2025 | | |
-| 76   | Jughead's Double Digest | | Archie Comics | English | Upendra Bapat | Avani | 09.Aug.2025 | 09.Aug.2025 | |
-| 77   | Vyjayanthipura | | Santhoshkumar Mehendal | Kannada | Vasumathi Bapat | Sunitha Ajji | 06.Sep.2025 | | |
-| 78   | The Book Thief | | Markus Zuzak | English | Upendra Bapat | Gowri Ajji | 06.Sep.2025 | | |
+| 76   | The Good Omen | | Niel Gaimman| English | Upendra Bapat | Avani | 09.Aug.2025 | | |
+| 77   | Jughead's Double Digest | | Archie Comics | English | Upendra Bapat | Avani | 09.Aug.2025 | 09.Aug.2025 | |
+| 78   | Vyjayanthipura | | Santhoshkumar Mehendal | Kannada | Vasumathi Bapat | Sunitha Ajji | 06.Sep.2025 | | |
+| 79   | The Book Thief | | Markus Zuzak | English | Upendra Bapat | Gowri Ajji | 06.Sep.2025 | | |
+| 80   | The Old man and the Sea | | Ernest Hemingway | English | Upendra Bapat | Shaik Lalu Basha | 09.Sep.2025 | | |
 
