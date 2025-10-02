@@ -81,7 +81,10 @@
 | 75   | Amulet of Samarkand | | Jonathan Stroud | English | Upendra Bapat | Avani | 09.Aug.2025 | | |
 | 76   | The Good Omen | | Niel Gaimman| English | Upendra Bapat | Avani | 09.Aug.2025 | | |
 | 77   | Jughead's Double Digest | | Archie Comics | English | Upendra Bapat | Avani | 09.Aug.2025 | 09.Aug.2025 | |
-| 78   | Vyjayanthipura | | Santhoshkumar Mehendal | Kannada | Vasumathi Bapat | Sunitha Ajji | 06.Sep.2025 | | |
+| 78   | Vyjayanthipura | | Santhoshkumar Mehendal | Kannada | Vasumathi Bapat | Sunitha Ajji | 05.Oct.2025 | | |
 | 79   | The Book Thief | | Markus Zuzak | English | Upendra Bapat | Gowri Ajji | 06.Sep.2025 | | |
 | 80   | The Old man and the Sea | | Ernest Hemingway | English | Upendra Bapat | Shaik Lalu Basha | 09.Sep.2025 | | |
+| 81   | Sapiens | | Yuval Noah Harrari | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
+| 82   | Atomic Habits | | James Clear | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
+| 83   | Glimpes of World History | | Jawahar Lal Nehru | English | Upendra Bapat | 30.Sep.2025 | | |
 
