@@ -86,5 +86,17 @@
 | 80   | The Old man and the Sea | | Ernest Hemingway | English | Upendra Bapat | Shaik Lalu Basha | 09.Sep.2025 | | |
 | 81   | Sapiens | | Yuval Noah Harrari | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
 | 82   | Atomic Habits | | James Clear | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
-| 83   | Glimpes of World History | | Jawahar Lal Nehru | English | Upendra Bapat | 30.Sep.2025 | | |
+| 83   | Glimpes of World History | | Jawahar Lal Nehru | English | Upendra Bapat | Tryambak | 30.Sep.2025 | | |
+| 84   | Masala Lab | | Krish Ashok | English | Upendra Bapat | Markus Meier | 01.Dec.2025 | | |
+| 85   | The last oracle | | James Rollins | German | Upendra Bapat | Arnold Glogg | 25.Dec.2025 | | |
+| 86   | Thirteen Problems | | Agatha Christie | English | Mrudula Dongre | Swathi Pelhaje | 15.Feb.2026 | | |
+| 87   | One Arranged Marriage | | Chethan Bhagat | English | Mrudula Dongre | Swathi Pelthaje | 15.Feb.2026 | | |
+| 88   | Kingdom of Fantasy | | G. Stilton | English | Upendra Bapat | Surekha | 12.Apr.2026 | 20.Apr.2026 | | |  
+| 89   | The Enchanted Charms | | G. Stilton | English | Upendra Bapat | Surekha | 19.Apr.2026 | 24.Apr.2026 | | |  
+| 90   | The Dragon Prphecy | | G. Stilton | English | Upendra Bapat | Surekha | 19.Apr.2026 | 24.Apr.2026 | | |  
+| 91   | Pelly, Giraffe & me | | Roald Dahl | English | Upendra Bapat | Surekha | 14.Apr.2026 | | | |  
+| 92   | The BFG| | Roald Dahl | English | Upendra Bapat | Chandrashekhar Dongre | 21.Apr.2026 | | | |  
+| 93   | The Sleeping Giants | |  Sylvian Neuvel | English | Upendra Bapat | Navya Sharma | 19.Apr.2026 | | | |  
+
+
 
