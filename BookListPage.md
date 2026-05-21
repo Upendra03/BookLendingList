@@ -86,7 +86,7 @@
 | 80   | The Old man and the Sea | | Ernest Hemingway | English | Upendra Bapat | Shaik Lalu Basha | 09.Sep.2025 | | |
 | 81   | Sapiens | | Yuval Noah Harrari | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
 | 82   | Atomic Habits | | James Clear | English | Upendra Bapat | Skanda | 27.Sep.2025 | | |
-| 83   | Glimpes of World History | | Jawahar Lal Nehru | English | Upendra Bapat | Tryambak | 30.Sep.2025 | | |
+| 83   | Glimpes of World History | | Jawahar Lal Nehru | English | Upendra Bapat | Tryambak | 30.Sep.2025 | 07.May.2026| |
 | 84   | Masala Lab | | Krish Ashok | English | Upendra Bapat | Markus Meier | 01.Dec.2025 | | |
 | 85   | The last oracle | | James Rollins | German | Upendra Bapat | Arnold Glogg | 25.Dec.2025 | | |
 | 86   | Thirteen Problems | | Agatha Christie | English | Mrudula Dongre | Swathi Pelhaje | 15.Feb.2026 | | |
@@ -97,6 +97,9 @@
 | 91   | Pelly, Giraffe & me | | Roald Dahl | English | Upendra Bapat | Surekha | 14.Apr.2026 | | | |  
 | 92   | The BFG| | Roald Dahl | English | Upendra Bapat | Chandrashekhar Dongre | 21.Apr.2026 | | | |  
 | 93   | The Sleeping Giants | |  Sylvian Neuvel | English | Upendra Bapat | Navya Sharma | 19.Apr.2026 | | | |  
+| 94   | Wisden India 2019 & 2020 | |  Wisden India | English | Upendra Bapat | Trayambak | 25.Apr.2026 | 07.May.2026 | | |  
+| 95   | The Laws of Cricket - 2020 | |  Marylebone Cricket Club | English | Upendra Bapat | Trayambak | 25.Apr.2026 | 07.May.2026 | | | 
+| 96   | One Piece - Volume 1 | | Eiichiro Oda | English | Upendra Bapat | Aarav | 21.May.2026 | | | 
 
 
 
