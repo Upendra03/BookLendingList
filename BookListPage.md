@@ -94,12 +94,13 @@
 | 88   | Kingdom of Fantasy | | G. Stilton | English | Upendra Bapat | Surekha | 12.Apr.2026 | 20.Apr.2026 | | |  
 | 89   | The Enchanted Charms | | G. Stilton | English | Upendra Bapat | Surekha | 19.Apr.2026 | 24.Apr.2026 | | |  
 | 90   | The Dragon Prphecy | | G. Stilton | English | Upendra Bapat | Surekha | 19.Apr.2026 | 24.Apr.2026 | | |  
-| 91   | Pelly, Giraffe & me | | Roald Dahl | English | Upendra Bapat | Surekha | 14.Apr.2026 | | | |  
+| 91   | Pelly, Giraffe & me | | Roald Dahl | English | Upendra Bapat | Surekha | 14.Apr.2026 | 25.May.2026 | | |  
 | 92   | The BFG| | Roald Dahl | English | Upendra Bapat | Chandrashekhar Dongre | 21.Apr.2026 | | | |  
 | 93   | The Sleeping Giants | |  Sylvian Neuvel | English | Upendra Bapat | Navya Sharma | 19.Apr.2026 | | | |  
 | 94   | Wisden India 2019 & 2020 | |  Wisden India | English | Upendra Bapat | Trayambak | 25.Apr.2026 | 07.May.2026 | | |  
 | 95   | The Laws of Cricket - 2020 | |  Marylebone Cricket Club | English | Upendra Bapat | Trayambak | 25.Apr.2026 | 07.May.2026 | | | 
 | 96   | One Piece - Volume 1 | | Eiichiro Oda | English | Upendra Bapat | Aarav | 21.May.2026 | | | 
+| 97   | Matilda | | Roald Dahl | English | Upendra Bapat | Surekha | 24.May.2026 | | | |
 
 
 
