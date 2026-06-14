@@ -101,6 +101,8 @@
 | 95   | The Laws of Cricket - 2020 | |  Marylebone Cricket Club | English | Upendra Bapat | Trayambak | 25.Apr.2026 | 07.May.2026 | | | 
 | 96   | One Piece - Volume 1 | | Eiichiro Oda | English | Upendra Bapat | Aarav | 21.May.2026 | | | 
 | 97   | Matilda | | Roald Dahl | English | Upendra Bapat | Surekha | 24.May.2026 | | | |
+| 98   | Black Beauty | | Anna Sewell  | English | Upendra Bapat | Ambika (No.44) | 14.Jun.2026 | | | |
+| 99   | Parisarada Kathegalu | | Poornachandra Tejaswi  | English | Upendra Bapat | Ambika (No.44) | 14.Jun.2026 | | | |
 
 
 
