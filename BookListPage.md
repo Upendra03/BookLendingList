@@ -103,6 +103,12 @@
 | 97   | Matilda | | Roald Dahl | English | Upendra Bapat | Surekha | 24.May.2026 | | | |
 | 98   | Black Beauty | | Anna Sewell  | English | Upendra Bapat | Ambika (No.44) | 14.Jun.2026 | | | |
 | 99   | Parisarada Kathegalu | | Poornachandra Tejaswi  | English | Upendra Bapat | Ambika (No.44) | 14.Jun.2026 | | | |
+| 100  | Messi Neymar Ronaldo | | Luca Caioli | English | Upendra Bapat | Jeevu Mallesh | 30.Jun | | | |
+| 101  | Cricket: It's a funny old game| | John Andrew | English | Upendra Bapat | Jeevu Mallesh | 30.Jun | | | |
+| 102  | El Diego | | Diego Armando Maradona | English | Upendra Bapat | Dailywell | 01.Jul | | | |
+| 103  | Fantastic Mr. Fox | | Roald Dahl | English | Upendra Bapat | Surekha | 03.Jul | | | |
+| 104  | Room of many colours | | Ruskin Bond | English | Upendra Bapat | Surekha | 03.Jul | | | |
+| 105  | Charlie and the great glass elevator | | Roald Dahl | English | Upendra Bapat | Surekha | 03.Jul | | | |
 
 
 
