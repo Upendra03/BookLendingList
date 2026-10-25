@@ -105,10 +105,12 @@
 | 99   | Parisarada Kathegalu | | Poornachandra Tejaswi  | English | Upendra Bapat | Ambika (No.44) | 14.Jun.2026 | 23.Oct.2026| | |
 | 100  | Messi Neymar Ronaldo | | Luca Caioli | English | Upendra Bapat | Jeevu Mallesh | 30.Jun.2026 | | | |
 | 101  | Cricket: It's a funny old game| | John Andrew | English | Upendra Bapat | Jeevu Mallesh | 30.Jun.2026 | | | |
-| 102  | El Diego | | Diego Armando Maradona | English | Upendra Bapat | Dailywell | 01.Jul.2026 | | | |
+| 102  | El Diego | | Diego ArmanA.2do Maradona | English | Upendra Bapat | Dailywell | 01.Jul.2026 | | | |
 | 103  | Fantastic Mr. Fox | | Roald Dahl | English | Upendra Bapat | Surekha | 03.Jul | 02.Oct.2026 | | |
 | 104  | Room of many colours | | Ruskin Bond | English | Upendra Bapat | Surekha | 03.Jul.2026 |  | | |
 | 105  | Charlie and the great glass elevator | | Roald Dahl | English | Upendra Bapat | Surekha | 03.Jul.2026 | 02.Oct.2026| | |
-
+| 106  | One Piece - Volume 2 | | Eiichiro Oda | English | Upendra Bapat | Aarav | 21.Jul.2026 | | | 
+| 107  | One Piece - Volume 3 | | Eiichiro Oda | English | Upendra Bapat | Aarav | 21.Aug.2026 | | |
+| 108  | Belagaguva Munna |Vishwakatha Kosha - 11 | Niranjana | Kannada | Upendra Bapat | Vasanth Bapat | 06.Sep.2026 | | |
 
 
